@@ -4,6 +4,9 @@
 
 ---
 
+<img src="https://github.com/user-attachments/assets/0d0fc5d0-f46b-4c08-b2ae-4f3df2821cf8" alt="Aung's Avatar" width="100" height="100"/>
+
+
 ## Overview
 
 This project is an AI-powered marketing email generator and sender that uses multiple specialized OpenAI agents with distinct personalities to create different versions of a marketing email. The system evaluates these versions, selects the most emotionally engaging one, converts it into a polished HTML email, and sends it out via SendGrid.
