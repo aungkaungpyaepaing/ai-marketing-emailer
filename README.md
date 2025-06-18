@@ -79,7 +79,8 @@ The system will:
 
 ## Example Output
 
-<img width="1384" alt="image" src="https://github.com/user-attachments/assets/246f1182-ac22-4e93-9238-b21c80cb78ae" />
+<img width="733" alt="image" src="https://github.com/user-attachments/assets/4e504044-f205-4ef1-80c7-175f8acccd4e" />
+
 
 ## Code Structure Highlights
 
